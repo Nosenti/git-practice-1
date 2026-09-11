@@ -8,3 +8,4 @@ def h(a, b):
         if x < 1600:
             m = m + 1
     return n - m
+#h is a varaible idk what to write
